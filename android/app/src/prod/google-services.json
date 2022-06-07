@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64690542327",
+    "project_id": "asset-management-8fa9d",
+    "storage_bucket": "asset-management-8fa9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64690542327:android:cbf918db7e8c8cbec4a5f2",
+        "android_client_info": {
+          "package_name": "com.vgts.asset.asset_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64690542327-lbtf8uh9l9tf358aprgpjutapmr6bsgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhPkDNeUnr6f2pxBR93Sgbb19L5RwDVTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64690542327-lbtf8uh9l9tf358aprgpjutapmr6bsgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
